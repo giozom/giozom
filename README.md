@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/giozom"><img src="https://api.daily.dev/devcards/a2ce20bbad95471eb679bacaf1384646.png?r=69n" width="400" alt="Giovanni's Dev Card"/></a>
+<a href="https://app.daily.dev/giozom"><img src="https://github.com/giozom/giozom/blob/main/devcard.svg" width="400" alt="Giovanni's Dev Card"/></a>
 <!--
 **giozom/giozom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
