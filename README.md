@@ -10,5 +10,5 @@
 - 🚀 Looking for an experienced engineering manager? Reach out!
 - 🐕 Father of 2 boys and 2 cavaliers king charles
 - 💍 Married to the most beautiful woman in the world
-- 🙉 Hobbies include, Fishing, Golf, Camping and Eating
+- 🙉 Hobbies include, Fishing, Golf, Camping and Skiing
 
