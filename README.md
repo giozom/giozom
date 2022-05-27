@@ -19,6 +19,7 @@
 
 - 🔭 I’m currently working on a design system and microfrontend @ IAG
 - 🌱 I’m also learning about product framework creation and a bunch of cool stuffs
+- 🌱 I have a keen interest in Data engineering, Analytics, SRE, Automation and DevOps
 - 🌱 Back to basic on JavaScript, Typescript, AWS, Azure etc..
 - 🐕 Father of 2 boys and 2 cavaliers king charles
 - 💍 Married to the most beautiful woman in the world
