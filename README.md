@@ -17,8 +17,8 @@
   
 <a href="https://app.daily.dev/giozom"><img src="https://github.com/giozom/giozom/blob/main/devcard.svg" align="right" width="400" alt="Giovanni's Dev Card"/></a>
 
-- 🔭 I’m currently working on a design system and microfrontend @ IAG
-- 🌱 I’m also learning about product framework creation and a bunch of cool stuffs
+- 🔭 I’m currently working on a design system and micro frontends @ IAG
+- 🌱 I’m also learning about platform engineering, product framework creation and a bunch of cool stuffs
 - 🌱 I have a keen interest in Data engineering, Analytics, SRE, Automation and DevOps
 - 🌱 Back to basic on JavaScript, Typescript, AWS, Azure etc..
 - 🐕 Father of 2 boys and 2 cavaliers king charles
