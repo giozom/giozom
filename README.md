@@ -25,4 +25,4 @@
 - 💍 Married to the most beautiful woman in the world
 - 🙉 Hobbies include, Fishing, Golf, Camping and Skiing
 - 📫 How to reach me: shoot me a msg on **[linkedin](https://www.linkedin.com/in/giovanniarsenius)**
-- 🚀 Looking for an experienced software engineering director or manager? Reach out via linkedin :-) !
+- 🚀 Looking for an experienced software engineering manager? Reach out via linkedin :-) !
