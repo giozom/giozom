@@ -21,7 +21,7 @@
 - 🌱 I’m also learning about platform engineering, product framework creation and a bunch of cool stuffs
 - 🌱 I have a keen interest in Data engineering, Analytics, SRE, Automation and DevOps
 - 🌱 Back to basic on JavaScript, Typescript, AWS, Azure etc..
-- 🐕 Father of 2 boys and 2 cavaliers king charles
+- 🐕 Father to 3 little humans and 2 cavaliers king charles spaniel
 - 💍 Married to the most beautiful woman in the world
 - 🙉 Hobbies include, Fishing, Golf, Camping and Skiing
 - 📫 How to reach me: shoot me a msg on **[linkedin](https://www.linkedin.com/in/giovanniarsenius)**
