@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Hey there! I'm Giovanni..Gio or Joe for short, and I like to think of myself as a tech enthusiast with a knack for making complex things work seamlessly. Currently immersed in the world of design systems and micro frontends at IAG, I thrive on the excitement of learning and diving deep into a myriad of tech domains.
+
+Easy-going by nature, I believe in fostering a collaborative and innovative atmosphere within my team. Whether I'm geeking out over Progressive Web Apps, delving into the intricacies of automation testing, or exploring the realms of DevOps, I find joy in the ever-evolving tech landscape.
+
+Beyond the keyboard and code, you'll find me balancing life as a proud father to three little humans and two Cavalier King Charles Spaniels. And yes, I've got the honor of being married to the most beautiful woman in the world.
+
+When not navigating the digital realm, I love casting a line for some fishing, hitting the greens for a round of golf, camping under the stars, or carving down snowy slopes on skis.
+
+Feel free to dive into the tech talk with me, share fishing stories, or just connect over a virtual cup of coffee. Let's navigate the exciting intersection of technology, family, and the great outdoors together.
+
 <div align="left">
   <a href="https://twitter.com/giozom">
     <img
