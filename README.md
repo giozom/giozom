@@ -33,4 +33,4 @@
 - 📫 How to reach me: shoot me a msg on **[linkedin](https://www.linkedin.com/in/giovanniarsenius)**
 
 ### Availability Open to work
-- 🚀 Whether you're aiming to enhance your **full-stack automation capabilities** or require an **experienced engineering delivery manager** to oversee your team, deliverables and projects, don't hesitate any longer. Feel free to connect with me on LinkedIn – Together let's connect and explore ways to achieve impactful results together. 
+- 🚀 Whether you're aiming to enhance your **full-stack automation capabilities** or require an **experienced engineering delivery manager** or a **head of engineering** to help uplift your capabilities and oversee your teams, deliverables and projects, don't hesitate any longer. Feel free to connect with me on LinkedIn – Together let's connect and explore ways to achieve impactful results together. 
