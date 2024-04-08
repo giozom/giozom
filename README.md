@@ -28,7 +28,7 @@ Feel free to dive into the tech talk with me, share fishing stories, or just con
 <a href="https://app.daily.dev/giozom"><img src="https://github.com/giozom/giozom/blob/main/devcard.svg" align="right" width="400" alt="Giovanni's Dev Card"/></a>
 
 ### A little bit about me
-- 🔭 I’m currently working on a design system and micro frontends @ IAG
+- 🔭 I’m currently working for an ecommerce company
 - 🌱 I’m also learning about platform engineering, product framework creation and a bunch of cool stuffs
 - 🌱 I have a keen interest in Progressive Web App, Automation Testing, Performance & Data engineering, DevOps, SRE, Monitoring and Analytics
 - 🌱 Back to basic on JavaScript, Typescript, AWS, Azure etc..
