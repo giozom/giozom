@@ -28,7 +28,7 @@ Feel free to dive into the tech talk with me, share fishing stories, or just con
 <a href="https://app.daily.dev/giozom"><img src="https://github.com/giozom/giozom/blob/main/devcard.svg" align="right" width="400" alt="Giovanni's Dev Card"/></a>
 
 ### A little bit about me
-- 🔭 I’m currently working for an ecommerce company as the Enterprise Engineering Manager
+- 🔭 I’m currently working for an energy software company as the APAC Engineering Leader looking after Customer Care Teams
 - 🌱 I’m also learning about AI and LLMs and experimenting left and right, platform engineering, product framework creation and a bunch of cool stuffs
 - 🌱 I have a keen interest in Progressive Web App, Automation Testing, Performance & Data engineering, DevOps, SRE, Monitoring and Analytics
 - 🌱 Back to basic on Python, JavaScript, Typescript, AWS, Azure, GCP etc..
@@ -43,4 +43,8 @@ Feel free to dive into the tech talk with me, share fishing stories, or just con
 - 📫 How to reach me: shoot me a msg on **[linkedin](https://www.linkedin.com/in/giovanniarsenius)**
 
 ### Availability: Open to work
-- 🚀 Whether you're aiming to enhance your **full-stack automation capabilities** or require an **experienced engineering delivery manager** or a **head of engineering** or a **quality engineering practice lead** or **devops/platform engineering manager** to help uplift your capabilities and oversee your teams, deliverables and projects, don't hesitate any longer. Feel free to connect with me on LinkedIn – Together let's connect and explore ways to achieve impactful results together. I'm here to help in any way I can.
+- 🚀 If you're looking to elevate your full-stack automation, strengthen your engineering practices, or bring in an experienced Engineering Manager, Head/Director of Engineering, or DevOps/Platform Engineering leader to guide teams and deliver real outcomes, I’d love to connect.
+
+Let’s chat about how I can help uplift your capabilities, accelerate delivery, and support your teams in achieving meaningful, measurable impact.
+
+Feel free to reach out on LinkedIn — always happy to help where I can.
