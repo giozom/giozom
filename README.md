@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hey there! I'm Giovanni..Gio or Joe for short, and I like to think of myself as a tech enthusiast with a knack for making complex things work seamlessly. Currently immersed in the world of AI, design systems and micro frontends, I thrive on the excitement of learning and diving deep into a myriad of tech domains.
+Hey there! I'm Giovanni..Gio for short, and I like to think of myself as a tech enthusiast with a knack for making complex things work seamlessly. Currently immersed in the world of AI, design systems and micro frontends, I thrive on the excitement of learning and diving deep into a myriad of tech domains.
 
 Easy-going by nature, I believe in fostering a collaborative and innovative atmosphere within my team. Whether I'm geeking out over Progressive Web Apps, delving into the intricacies of automation testing or messing with AI, or exploring the realms of DevOps, I find joy in the ever-evolving tech landscape.
 
@@ -28,8 +28,8 @@ Feel free to dive into the tech talk with me, share fishing stories, or just con
 <a href="https://app.daily.dev/giozom"><img src="https://github.com/giozom/giozom/blob/main/devcard.svg" align="right" width="400" alt="Giovanni's Dev Card"/></a>
 
 ### A little bit about me
-- 🔭 I’m currently working for an energy software company as the APAC Engineering Leader looking after Customer Care Teams
-- 🌱 I’m also learning about AI and LLMs and experimenting left and right, platform engineering, product framework creation and a bunch of cool stuffs
+- 🔭 I’m currently on leave until Oct 2026. Taking some time off to spend with my young family
+- 🌱 Spent the last 12 months learning more about AI and LLMs and experimenting left and right (even started a side hustle), also learning more about platform engineering, product framework creation and a bunch of cool AI stuffs. 
 - 🌱 I have a keen interest in Progressive Web App, Automation Testing, Performance & Data engineering, DevOps, SRE, Monitoring and Analytics
 - 🌱 Back to basic on Python, JavaScript, Typescript, AWS, Azure, GCP etc..
 - 🛠️ Diving into DevOps practices for seamless integration and deployment
