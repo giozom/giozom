@@ -31,9 +31,9 @@ Feel free to dive into the tech talk with me, share fishing stories, or just con
 - 🔭 I’m currently on leave until Oct 2026. Taking some time off to spend with my young family
 - 🌱 Spent the last 12 months learning more about AI and LLMs and experimenting left and right (even started a side hustle), also learning more about platform engineering, product framework creation and a bunch of cool AI stuffs. 
 - 🌱 I have a keen interest in Progressive Web App, Automation Testing, Performance & Data engineering, DevOps, SRE, Monitoring and Analytics
-- 🌱 Back to basic on Python, JavaScript, Typescript, AWS, Azure, GCP etc..
-- 🛠️ Diving into DevOps practices for seamless integration and deployment
-- 🧪 Experimenting with emerging technologies such as serverless architecture
+- 🌱 Back to basic on AI LLM, Agentic AI, Python, JavaScript, Typescript, AWS, Azure, GCP etc..
+- 🛠️ Diving into AI/DevOps practices for seamless integration and deployment
+- 🧪 Experimenting with emerging technologies such as Agentic AI, MCPs, serverless architecture
 - 📚 Continuous learning and staying updated on the latest industry trends and best practices.
 - 📊 Deepening expertise in data analytics and visualisation tools
 - 🌐 Sharpening proficiency in front-end technologies like React and Vue.js
@@ -43,7 +43,7 @@ Feel free to dive into the tech talk with me, share fishing stories, or just con
 - 📫 How to reach me: shoot me a msg on **[linkedin](https://www.linkedin.com/in/giovanniarsenius)**
 
 ### Availability: Open to work
-- 🚀 If you're looking to elevate your full-stack automation, strengthen your engineering practices, or bring in an experienced Engineering Manager, Head/Director of Engineering, or DevOps/Platform Engineering leader to guide teams and deliver real outcomes, I’d love to connect.
+- 🚀 If you're looking to elevate your end to end engineering posture, full-stack automation, strengthen your engineering delivery practices, or bring in an experienced Senior Engineering Leader, Head/Director of Engineering, or DevOps/Platform Engineering leader to guide teams and deliver real outcomes, I’d love to connect.
 
 Let’s chat about how I can help uplift your capabilities, accelerate delivery, and support your teams in achieving meaningful, measurable impact.
 
